@@ -1,4 +1,4 @@
-# Longest Substring with K Distinct Character - Sliding Window
+# Longest Substring with K Distinct Character -     
 
 def longest_substring_with_k_distinct_character(str,K):
     window_start = 0
